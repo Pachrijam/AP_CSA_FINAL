@@ -77,6 +77,7 @@ The goal is to improve efficiency and awareness during patrol operations.
 - Arrays / ArrayLists
 - Conditional logic
 - User input handling
+- java.util.Scanner
 
 ---
 
